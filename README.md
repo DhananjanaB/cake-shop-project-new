@@ -30,7 +30,7 @@ This project aims to provide a user-friendly interface for exploring a cake shop
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/DhananjanaB/cake-shop-project-new
    ```
 
 2. Navigate to the project folder:
